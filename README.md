@@ -55,5 +55,5 @@ SMOTE was applied to the training set only (after train/test split) to address c
 The **interpretability** of the final results is **limited** because of data transformation using PCA. Future work could include real-time deployment and adjustments depending on the model performance.
 
 ## Technologies used
-Python, pandas, numpy, matplotlib, seaborn, scikit-learn (Logistic Regression, Random Forest, GridSearchCV, SMOTE), XGBoost
+Python, pandas, numpy, matplotlib, seaborn, scikit-learn (Logistic Regression, Random Forest, GridSearchCV), imbalanced-learn, XGBoost.
 
