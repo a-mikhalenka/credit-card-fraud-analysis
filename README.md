@@ -57,3 +57,8 @@ The **interpretability** of the final results is **limited** because of data tra
 ## Technologies used
 Python, pandas, numpy, matplotlib, seaborn, scikit-learn (Logistic Regression, Random Forest, GridSearchCV), imbalanced-learn, XGBoost.
 
+## How to run
+- Clone repo
+- Download the dataset from [Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) and place in the root folder
+- Install dependencies: pip install -r requirements.txt
+- Open and run notebook/fraud_analysis.ipynb
