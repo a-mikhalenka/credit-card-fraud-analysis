@@ -1,11 +1,12 @@
-# Salifort Motors Employee Retention Analysis
+# Credit Card Fraud Detection
+
 ## Overview
 Fraudulent transactions result in direct financial losses and damage customer trust. This project builds and evaluates machine learning models to automatically detect fraudulent credit card transactions.
 The goals of this analysis are to:
 - Identify the key factors associated with fraudulent transactions
 - Build a machine learning model that predicts whether a transaction is fraudulent
 - Minimise financial losses by maximising detection of fraud
-- 
+ 
 ## Data
 The dataset is available on [Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud). It contains 284,807 transaction records (283,726 after removing 1,081 duplicates) with 31 features (28 features are PCA-transformed and uncorrelated with each other).
 
